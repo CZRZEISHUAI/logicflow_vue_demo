@@ -10,8 +10,4 @@ import registerPolyline from './registerPolyline'
 import registerTask from './registerTask'
 export { registerStart, registerUser, registerEnd, registerPush, registerDownload, registerPolyline, registerTask }
 
-<<<<<<< HEAD
-// 222
-=======
-// 111
->>>>>>> test
+// 111222
